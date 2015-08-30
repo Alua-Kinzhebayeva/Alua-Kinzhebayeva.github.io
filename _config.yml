@@ -1,7 +1,7 @@
 title: Alua Kinzhebayeva
 description: Software development blog
 
-url: http://Alua-Kinzhebayeva.github.com/long-haul
+url: http://alua-kinzhebayeva.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -21,5 +21,5 @@ navigation:
 social:
    github: Alua-Kinzhebayeva
    email: Alua.Kinzhebayeva@gmail.com
-   
-#google_analytics: "UA-58263416-1"
+
+google_analytics: "UA-66923596-1"
