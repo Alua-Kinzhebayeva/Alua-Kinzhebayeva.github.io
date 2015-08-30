@@ -1,0 +1,25 @@
+title: Alua Kinzhebayeva
+description: Software development blog
+
+url: http://Alua-Kinzhebayeva.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about.html
+ - title: Contact
+   url: /contact.html
+
+social:
+   github: Alua-Kinzhebayeva
+   email: Alua.Kinzhebayeva@gmail.com
+   
+#google_analytics: "UA-58263416-1"

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alua Kinzhebayeva</title>
+    <description>Software development blog</description>
+    <link>http://Alua-Kinzhebayeva.github.com/long-haul/</link>
+    <atom:link href="http://Alua-Kinzhebayeva.github.com/long-haul/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 30 Aug 2015 16:42:37 -0400</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2015 16:42:37 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      
+      <item>
+        <title>Value Exchange - culture of sharing</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;Let me introduce &lt;a href=&quot;http://www.valexchange.com/&quot;&gt;Value Exchange&lt;/a&gt; - an online service that lets you easily post things you no longer need, but interesting for someone else.
+Imagine you are relocating when you realise that you have things you no longer need, and it is time you let them go. All you need to do is to publish an item in two very short steps.
+Or a reverse situation, you need a cat carrier. You could save some money by checking Value Exchange in case someone around you is sharing it. In addition to making more room for new things in your life, it is a great opportunity to help someone like you.
+Lets build culture of sharing together!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Sharing item&lt;/h4&gt;
+
+&lt;p&gt;Upload image of the item.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/value-exchange/upload-image.png&quot; alt=&quot;&quot;&gt;
+Fill in details like name, description and approximate address if you wish to hide your location.
+If you wish, you can specify quantity or amount of people who can request the item, so you could choose a person from a pool of requesters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/value-exchange/details.png&quot; alt=&quot;&quot;&gt;
+In your user profile, once you get requests, go ahead - pick a person and send reply message
+&lt;img src=&quot;/assets/img/value-exchange/selecting-requester.png&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;/assets/img/value-exchange/reply.png&quot; alt=&quot;&quot;&gt;
+You are all set.&lt;/p&gt;
+
+&lt;h4&gt;Requesting item&lt;/h4&gt;
+
+&lt;p&gt;Click “request” button on item of interest. All you need now is to wait for the owner to reply.
+&lt;img src=&quot;/assets/img/value-exchange/request-item.png&quot; alt=&quot;&quot;&gt;
+When the owner replies, you will see something similar to this in your user profile.
+&lt;img src=&quot;/assets/img/value-exchange/response.png&quot; alt=&quot;&quot;&gt;
+Once you get requested item physically, don’t forget to thank previous owner by clicking “Thank for the item”.&lt;/p&gt;
+
+&lt;p&gt;P.S. Value Exchange is still in MVP stage, so for better experience use Google Chrome.&lt;/p&gt;
+</description>
+        
+          <description>&lt;blockquote&gt;
+&lt;p&gt;Let me introduce &lt;a href=&quot;http://www.valexchange.com/&quot;&gt;Value Exchange&lt;/a&gt; - an online service that lets you easily post things you no longer need, but interesting for someone else.
+Imagine you are relocating when you realise that you have things you no longer need, and it is time you let them go. All you need to do is to publish an item in two very short steps.
+Or a reverse situation, you need a cat carrier. You could save some money by checking Value Exchange in case someone around you is sharing it. In addition to making more room for new things in your life, it is a great opportunity to help someone like you.
+Lets build culture of sharing together!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        
+        <pubDate>Sun, 30 Aug 2015 10:34:25 -0400</pubDate>
+        <link>http://Alua-Kinzhebayeva.github.com/long-haul/blog/Value-Exchange/</link>
+        <guid isPermaLink="true">http://Alua-Kinzhebayeva.github.com/long-haul/blog/Value-Exchange/</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
