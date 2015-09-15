@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Nox - Google Chrome plugin"
+date:   2015-09-15 17:34:25
+---
+
+>Don't want to state the obvious, but Internet can be overwhelming like a DDOS attack on your brain.
+As for me, on this occasions, I want to buy one-way ticket to nowhere for the content I don't need, leaving only a couple of sentences I am interested in.
+<a href="https://github.com/Alua-Kinzhebayeva/nox">Nox</a> is a tiny Google Chrome plugin that hides distracting content leaving only important for you.
+
+Nox in action
+<img src="{{ '/assets/img/nox/nox-in-action.gif' | prepend: site.baseurl }}" alt="">
+
+It is not officially published yet, but can be downloaded and installed from <a href="https://github.com/Alua-Kinzhebayeva/nox">its Github repo</a>. 
