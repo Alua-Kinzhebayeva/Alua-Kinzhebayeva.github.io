@@ -14,7 +14,4 @@ title: About Alua
 		<li>Objective C/ Swift</li>
 	</ul>
 	<p>Also I am a founder of <a href="http://valexchange.com">Value Exchange</a> - an online service that helps you share physical things you no longer need in no time.</p>
-	<p>
-		At the moment I am available for <a href="mailto:Alua.Kinzhebayeva@gmail.com"> hire</a>.
-	</p>
 </div>
