@@ -3,11 +3,36 @@
   <channel>
     <title>Alua Kinzhebayeva</title>
     <description>Software development blog</description>
-    <link>http://alua-kinzhebayeva.github.io//</link>
-    <atom:link href="http://alua-kinzhebayeva.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Sep 2015 18:00:38 -0400</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2015 18:00:38 -0400</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 28 Jan 2017 13:25:18 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2017 13:25:18 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      
+      <item>
+        <title>Hebrew patch</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;Just a dream. I was doing some paperwork when I got a call from our front-end guy saying that my banking API is broken when accessed with Hebrew endpoints (literally -&amp;gt; domain-name-in-hebrew.com/resource-in-hebrew?param-in-hebrew). I thought for a second, shrugged and said &amp;quot;Ah, yeah, there is a Serverless Hebrew patch (plugin) for that. I will deploy a new build with it.&amp;quot;
+Ever since, when I find a rock solid solution for some tough case, I exhale with relief &amp;quot;Aha, there is a Hebrew patch for this&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;P.S. When you build API and rapidly evolve, this is the least weirdest dream you can end up with.&lt;/p&gt;
+</description>
+        
+          <description>&lt;blockquote&gt;
+&lt;p&gt;Just a dream. I was doing some paperwork when I got a call from our front-end guy saying that my banking API is broken when accessed with Hebrew endpoints (literally -&amp;gt; domain-name-in-hebrew.com/resource-in-hebrew?param-in-hebrew). I thought for a second, shrugged and said &amp;quot;Ah, yeah, there is a Serverless Hebrew patch (plugin) for that. I will deploy a new build with it.&amp;quot;
+Ever since, when I find a rock solid solution for some tough case, I exhale with relief &amp;quot;Aha, there is a Hebrew patch for this&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        
+        <pubDate>Fri, 23 Dec 2016 20:21:25 +0100</pubDate>
+        <link>http://localhost:4000/blog/Hebrew-Patch/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Hebrew-Patch/</guid>
+        
+        
+      </item>
+      
     
       
       <item>
@@ -30,9 +55,9 @@ As for me, on this occasions, I want to buy one-way ticket to nowhere for the co
 &lt;/blockquote&gt;
 </description>
         
-        <pubDate>Tue, 15 Sep 2015 13:34:25 -0400</pubDate>
-        <link>http://alua-kinzhebayeva.github.io//blog/Nox/</link>
-        <guid isPermaLink="true">http://alua-kinzhebayeva.github.io//blog/Nox/</guid>
+        <pubDate>Tue, 15 Sep 2015 19:34:25 +0200</pubDate>
+        <link>http://localhost:4000/blog/Nox/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Nox/</guid>
         
         
       </item>
@@ -81,9 +106,9 @@ Lets build culture of sharing together!&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         
-        <pubDate>Sun, 30 Aug 2015 10:34:25 -0400</pubDate>
-        <link>http://alua-kinzhebayeva.github.io//blog/Value-Exchange/</link>
-        <guid isPermaLink="true">http://alua-kinzhebayeva.github.io//blog/Value-Exchange/</guid>
+        <pubDate>Sun, 30 Aug 2015 16:34:25 +0200</pubDate>
+        <link>http://localhost:4000/blog/Value-Exchange/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Value-Exchange/</guid>
         
         
       </item>
