@@ -5,11 +5,11 @@
     <description>Software development blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Jan 2017 13:25:18 +0100</pubDate>
-    <lastBuildDate>Sat, 28 Jan 2017 13:25:18 +0100</lastBuildDate>
+    <pubDate>Sat, 28 Jan 2017 13:34:51 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2017 13:34:51 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-    
-      
+
+
       <item>
         <title>Hebrew patch</title>
         <description>&lt;blockquote&gt;
@@ -19,22 +19,22 @@ Ever since, when I find a rock solid solution for some tough case, I exhale with
 
 &lt;p&gt;P.S. When you build API and rapidly evolve, this is the least weirdest dream you can end up with.&lt;/p&gt;
 </description>
-        
+
           <description>&lt;blockquote&gt;
 &lt;p&gt;Just a dream. I was doing some paperwork when I got a call from our front-end guy saying that my banking API is broken when accessed with Hebrew endpoints (literally -&amp;gt; domain-name-in-hebrew.com/resource-in-hebrew?param-in-hebrew). I thought for a second, shrugged and said &amp;quot;Ah, yeah, there is a Serverless Hebrew patch (plugin) for that. I will deploy a new build with it.&amp;quot;
 Ever since, when I find a rock solid solution for some tough case, I exhale with relief &amp;quot;Aha, there is a Hebrew patch for this&amp;quot;.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        
+
         <pubDate>Fri, 23 Dec 2016 20:21:25 +0100</pubDate>
         <link>http://localhost:4000/blog/Hebrew-Patch/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/Hebrew-Patch/</guid>
-        
-        
+
+
       </item>
-      
-    
-      
+
+
+
       <item>
         <title>Nox - Google Chrome plugin</title>
         <description>&lt;blockquote&gt;
@@ -47,23 +47,23 @@ As for me, on this occasions, I want to buy one-way ticket to nowhere for the co
 &lt;img src=&quot;/assets/img/nox/nox-in-action.gif&quot; alt=&quot;&quot;&gt;
 It is not officially published yet, but can be downloaded and installed from &lt;a href=&quot;https://github.com/Alua-Kinzhebayeva/nox&quot;&gt;its Github repo&lt;/a&gt;.&lt;/p&gt;
 </description>
-        
+
           <description>&lt;blockquote&gt;
 &lt;p&gt;Don&amp;#39;t want to state the obvious, but Internet can be overwhelming like a DDOS attack on your brain.
 As for me, on this occasions, I want to buy one-way ticket to nowhere for the content I don&amp;#39;t need, leaving only a couple of sentences I am interested in.
 &lt;a href=&quot;https://github.com/Alua-Kinzhebayeva/nox&quot;&gt;Nox&lt;/a&gt; is a tiny Google Chrome plugin that hides distracting content leaving only important one for you.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        
+
         <pubDate>Tue, 15 Sep 2015 19:34:25 +0200</pubDate>
         <link>http://localhost:4000/blog/Nox/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/Nox/</guid>
-        
-        
+
+
       </item>
-      
-    
-      
+
+
+
       <item>
         <title>Value Exchange - culture of sharing</title>
         <description>&lt;blockquote&gt;
@@ -97,7 +97,7 @@ Once you get requested item physically, don’t forget to thank previous owner b
 
 &lt;p&gt;P.S. Value Exchange is still in MVP stage, so for better experience use Google Chrome.&lt;/p&gt;
 </description>
-        
+
           <description>&lt;blockquote&gt;
 &lt;p&gt;Let me introduce &lt;a href=&quot;http://www.valexchange.com/&quot;&gt;Value Exchange&lt;/a&gt; - an online service that lets you easily post things you no longer need, but interesting for someone else.
 Imagine you are relocating when you realise that you have things you no longer need, and it is time you let them go. All you need to do is to publish an item in two very short steps.
@@ -105,14 +105,14 @@ Or a reverse situation, you need a cat carrier. You could save some money by che
 Lets build culture of sharing together!&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        
+
         <pubDate>Sun, 30 Aug 2015 16:34:25 +0200</pubDate>
         <link>http://localhost:4000/blog/Value-Exchange/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/Value-Exchange/</guid>
-        
-        
+
+
       </item>
-      
-    
+
+
   </channel>
 </rss>
