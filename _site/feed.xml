@@ -5,41 +5,9 @@
     <description>Software development blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Apr 2017 18:56:34 +0600</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2017 18:56:34 +0600</lastBuildDate>
+    <pubDate>Tue, 18 Apr 2017 11:30:40 +0600</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2017 11:30:40 +0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-    
-      
-      <item>
-        <title>Why I do not always reply to emails</title>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;To be fair to myself, I don&amp;#39;t do this all the time :D If I have an answer to email, I reply fast(ish).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4&gt;No answer to a technical OS question&lt;/h4&gt;
-
-&lt;p&gt;If I left a question with no answer or follow up answer, it is because I am a full stack developer digging in extraterrestrial tech (platform different to an OS project), and I try to minimize context switch.&lt;/p&gt;
-
-&lt;h4&gt;No answer to a project proposal&lt;/h4&gt;
-
-&lt;p&gt;Oh, people, this is the tough one. I am always interested in projects even if I don&amp;#39;t reply to a proposal. A project that satisfies both functional and non-functional requirements is like an oxygen carrying my will to live. Software is my dialogue with World. It is my version of &amp;quot;Hello. Nice to see you! How are you? Best regards, Alua&amp;quot;
-So why don&amp;#39;t I answer to an email or return a call? Fear of disappointment of universal scale.
-A couple of sequential brain fucks make my subconsciousness think sometimes &amp;quot;They are all the same. All they want is to squeeze you dry and screw over.&amp;quot; Why would I spend time thinking of best ways to implement a feature and not being able to pay for a small medical bill with money I earned, but never received.
-That is why I don&amp;#39;t always answer.&lt;/p&gt;
-</description>
-        
-          <description>&lt;blockquote&gt;
-&lt;p&gt;To be fair to myself, I don&amp;#39;t do this all the time :D If I have an answer to email, I reply fast(ish).&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        
-        <pubDate>Mon, 17 Apr 2017 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/Why-I-do-not-always-reply/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Why-I-do-not-always-reply/</guid>
-        
-        
-      </item>
-      
     
       
       <item>
